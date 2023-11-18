@@ -6,8 +6,6 @@ import android.os.Bundle
 import android.view.View
 import android.view.View.OnClickListener
 import androidx.activity.result.contract.ActivityResultContracts
-import androidx.lifecycle.Observer
-import androidx.viewbinding.ViewBinding
 import kr.ac.kumoh.ce.s20180147.s23midtest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), OnClickListener {
